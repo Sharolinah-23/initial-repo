@@ -6,3 +6,4 @@ Pugs
 Poodles
 Chihuahua
 Alaskan Malamute
+Rottweiler
