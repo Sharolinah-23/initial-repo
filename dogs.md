@@ -7,3 +7,4 @@ Poodles
 Chihuahua
 Alaskan Malamute
 Golden Retriever
+Rottweiler
